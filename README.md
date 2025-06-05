@@ -8,7 +8,7 @@
 
 ### 👥 Team Members
 - **Alexis** - ([@coding-cluster](https://github.com/coding-cluster)) - Backend Developer
-- **Vanessa Reteguón** ([@vcardui](https://github.com/vcardui) on GitHub) - Full Stack Developer
+- **Vanessa Reteguín** ([@vcardui](https://github.com/vcardui) on GitHub) - Full Stack Developer
 - **Alan Torres Ruiz** - Frontend Developer
 
 ---
